@@ -7,6 +7,7 @@ import {
     FaStar,
     FaStore,
   } from "react-icons/fa";
+import Link from 'next/link';
 
 const ProductDetails = (product) => {
   return (
